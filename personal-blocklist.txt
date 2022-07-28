@@ -1,0 +1,6 @@
+! Title: Personal filterlist
+! Description: My personal filters
+! Last modified: Thu, 28 Jul 2022 19:30:00 +0200
+ugenr.dk##:matches-path(/kalender)div#calendar-wrapper:style(opacity: 1 !important;)
+! 2021-07-26 https://maxroll.gg
+||player.twitch.tv/?channel=Northwar&parent=local.maxroll.gg&parent=test.maxroll.gg&parent=maxroll.gg&referrer=https%3A%2F%2Fmaxroll.gg%2Fguides%2Flod-wave-of-light-monk-guide$subdocument
